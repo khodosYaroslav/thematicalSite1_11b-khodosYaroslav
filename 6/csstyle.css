@@ -1,0 +1,229 @@
+body{
+    background-color: black;
+}
+
+.header{
+    width: calc(100% - 80px);
+    position:relative;
+    padding: 40px;
+}
+
+.logo{
+    width: 374px;
+    height: 93px;
+    background-image: url(
+    ../images/logo.png);
+}
+
+.menu-item{
+    color:dodgerblue;
+    font-size:24px;
+    font-family: Tahoma;
+    display:inline-block;
+    margin: 0px 0px 0px 40px;
+}
+
+.menu{
+    position: absolute;
+    right: 40px;
+    top: 40px;
+}
+
+.first{
+    background-color:#929292;
+    border-radius: 50px;
+    height: 75px;
+    width: 85%;
+}
+
+.firsttext{
+    font-family: Tahoma;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.images{
+    margin-top: 45px;
+    margin-left: 120px;
+    border-radius: 25px;
+    background-color:#929292;
+    width: 630px;
+    height:590px;
+    overflow: auto;
+    display:inline-block;
+}
+
+.imgtopleft{
+    background-image: url(
+    1.png);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.imgtopmid{
+    background-image: url(
+    2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.imgtopright{
+    background-image: url(
+    3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.imgmidleft{
+    background-image: url(
+    4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.imgmidmid{
+    background-image: url(
+    5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.imgmidright{
+    background-image: url(
+    6.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.imgbtmleft{
+    background-image: url(
+    7.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.imgbtmmid{
+    background-image: url(
+    8.png);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.imgbtmright{
+    background-image: url(
+    1.png);
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width:180px;
+    height:168px;
+    display:inline-block;
+}
+
+.descrpt{
+    background-color: #929292;
+    width: 580px;
+    height: 590px;
+    border-radius: 25px;
+    margin-left: 50px;
+    display:inline-block;
+    margin-top: 45px;
+    overflow: auto;
+}
+
+
+.descrpttext{
+    font-family: Tahoma;
+    font-size: 21px;
+    padding-left: 25px;
+    padding-top: 12px;
+    padding-right: 25px;
+    display: inline-block;
+}
+
+.linkyt{
+    width:280px;
+    height: 30px;
+    background-color: #929292;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 750px;
+    border-radius: 35px;
+    display: inline-block;
+}
+
+.linkof{
+    width:280px;
+    height: 30px;
+    background-color: #929292;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    border-radius: 35px;
+    display: inline-block;
+}
+
+.genlink{
+    font-family: Tahoma;
+    font-size: 20px;
+}
